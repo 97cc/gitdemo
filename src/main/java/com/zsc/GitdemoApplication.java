@@ -17,5 +17,7 @@ public class GitdemoApplication {
         System.out.println("dev");
         System.out.println("我在dev4上创建的分支");
         System.out.println("github修改");
+        System.out.println("idea修改");
+
     }
 }
