@@ -10,5 +10,11 @@ public class GitdemoApplication {
         SpringApplication.run(GitdemoApplication.class, args);
         System.out.println("dasda");
         System.out.println("dasda");
+
+
+        System.out.println("dev");
+        System.out.println("dev1");
+
+
     }
 }
